@@ -646,7 +646,7 @@ a.wit-btn {
   text-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
 }
 .slidertext3 span {
-  color: #fff;
+  color: #912729;
 }
 .slidertext4 i {
   margin-right: 10px;
@@ -2153,7 +2153,7 @@ button:focus {
 .footer-links li{margin-bottom: 10px;}
 .footer-links li a{text-decoration:none; color:#bcc5d0; font-size:14px;}
 .footer-links li:before{content: "\f0da"; font-weight: 600; font-family: 'Font Awesome 5 Free'; padding-right:10px; color:#bcc5d0; font-size: 14px;}
-.footer-links li a:hover{color: #064C30;}
+.footer-links li a:hover{color: #064C30; font-size:36px !important; font-weight: bold;}
 .insta_pics{}
 .insta_pics li{display: inline-block; padding-right: 5px; margin-bottom: 9px;}
 .hourswrp{}
@@ -2167,14 +2167,14 @@ button:focus {
 .footer-adress li{margin:0;  padding-bottom: 15px; display: flex;}
 .footer-adress li > i{vertical-align:top; font-size:16px; color:#bcc5d0; width:30px; padding-top: 3px;}
 .footer-adress li span a, .footer-adress li span{font-size: 14px; color: #bcc5d0; text-decoration: none;}
-.footer-adress li span a:hover{color: #912729;}
+.footer-adress li span a:hover{color: #064C30;}
 .footer_phone a{font-size: 24px !important; font-weight: bold;}
 .footer_address i, .footer_phone i{font-size: 24px !important;}
 .footer_icon{text-align: left;}
 .footerLinks li{position:relative; padding-left:16px;}
 .footerLinks li a{font-size:14px; color:#fff; line-height:30px; text-decoration:none;}
 .footerLinks li:before{content:"\f105"; font-family: 'FontAwesome'; position:absolute; top:4px; left:0; font-size:14px; color:#fff;}
-.footerLinks li a:hover{color:#912729;}
+.footerLinks li a:hover{color: #064C30;}
 .footer-bottom{padding: 20px 0;}
 .copyright-text{font-size: 14px; color: #000;}
 
