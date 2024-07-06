@@ -827,7 +827,7 @@ a.slidebtn i {
 
 .edu_list{list-style: none;}
 .learing-wrp{display: flex;}
-.edu_icon{background: #000; width: 85px; height: 85px; line-height: 85px; text-align: center; border-radius: 100%; margin-right: 20px; display: table;}
+.edu_icon{background: #000; width: 85px; height: 10px; line-height: 8px; text-align: center; border-radius: 100%; padding: 10px; margin-right: 20px; display: table;}
 .edu_list li:nth-child(1) .edu_icon{background: #912729;}
 .edu_list li:nth-child(2) .edu_icon{background: #064C30;}
 .edu_list li:nth-child(3) .edu_icon{background: #dd1146;}
