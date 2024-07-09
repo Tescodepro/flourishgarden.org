@@ -955,7 +955,11 @@ a.slidebtn i {
   background: #fff;
 }
 .class_Img{position: relative;}
-.class_Img img{width: 100%;}
+.class_Img img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
 .path_box {
   padding: 26px 26px 16px 26px;}
 
@@ -1238,6 +1242,8 @@ a.slidebtn i {
 }
 .galleryImg img {
   width: 100%;
+  height: 250px;
+  object-fit: cover;
 }
 .gallery-wrap .galleryImg:hover .portfolio-overley, .galley_inner .galleryImg:hover .portfolio-overley {
   -webkit-transform: scale(1);
