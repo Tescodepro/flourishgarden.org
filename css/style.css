@@ -64,6 +64,7 @@ a {
 }
 .unorderList {
   list-style: none;
+  text-align: center;
 }
 img {
   max-width: 100%;
@@ -918,6 +919,7 @@ a.slidebtn i {
   line-height: 24px;
   color: #322c2c;
   margin-bottom: 0; min-height: 80px;
+  text-align: justify;
 }
 .class-wrap .owl-dots {
   display: none;
@@ -1825,7 +1827,8 @@ button:focus {
 .designation{font-size: 14px; font-family: 'Quicksand', sans-serif; letter-spacing: 2px;}
 .center_title{text-align: center;}
 .teacher-wrap .title{margin-bottom: 50px;}
-.teacherImg{position: relative; overflow: hidden;}
+.teacherImg{position: relative; overflow: hidden; width: 100%; height:10rem ;
+}
 .single-teachers .social-icons {
     position: absolute;
     bottom: -60px;
@@ -1929,6 +1932,7 @@ button:focus {
     line-height: 26px;
     font-weight: 400;
     color: #505050;
+
 }
 .address-item .address-text ul li a {
     color: #505050;
@@ -3478,7 +3482,9 @@ textarea.form-control{height: 150px !important;}
   .aboutImg {
     text-align: center;
     margin-top: 40px;
+    object-fit:contain ;
   }
+
   .header-wrap .navbar {
     float: none;
   }
